@@ -1,0 +1,23 @@
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.exe.config
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.exe
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.pdb
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csprojAssemblyReference.cache
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.Form1.resources
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.Properties.Resources.resources
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csproj.GenerateResource.cache
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csproj.CoreCompileInputs.cache
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.exe
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.pdb
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\bin\Debug\AudioSwitcher.AudioApi.dll
+F:\Chendahua C# Project\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csproj.CopyComplete
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.exe.config
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.exe
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\bin\Debug\AudioControl.pdb
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csprojAssemblyReference.cache
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.Form1.resources
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.Properties.Resources.resources
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csproj.GenerateResource.cache
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.csproj.CoreCompileInputs.cache
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.exe
+G:\GitHub Projects\Unity-OpenOrClose-Other-ExeProgram\Open Other Exe Program\AudioControl\AudioControl\AudioControl\obj\Debug\AudioControl.pdb
